@@ -1,6 +1,6 @@
 # Apply AI like a Pro
 
-I’m Ruopeng An, a professor at Washington University in St. Louis. I created this repo to store and share the Google Colab files (.ipynb) I wrote for my YouTube channel, “[Apply AI like a Pro](https://www.youtube.com/channel/UCmwd5_sW0vb5J38ShMVs0VQ)”.
+I’m Ruopeng An, a professor at New York University. I created this repo to store and share the Google Colab files (.ipynb) I wrote for my YouTube channel, “[Apply AI like a Pro](https://www.youtube.com/channel/UCmwd5_sW0vb5J38ShMVs0VQ)”.
 
 Trained as a social scientist with little programming experience, I know the barriers for a non-technical person to learn AI: monster math equations in textbooks, lines after lines of code with little explanation, broken or half-finished code in online tutorials that never runs, the daunting gap from textbook toy examples to real-world applications…
 
